@@ -1,5 +1,25 @@
-img{
+.Selfie {
     margin: 5%;
     height: 300px;
     width: auto; 
 }
+
+.AboutImageNatureWalks {
+    margin: 5%;
+    height: 300px;
+    width: auto;
+}
+
+.AboutImageVolunteering {
+    margin: 5%;
+    height: 300px; 
+    width: auto;
+    overflow: hidden;
+}
+
+.AboutImageVideoGames {
+    margin: 5%;
+    height: 200px;
+    width: auto;
+}
+
