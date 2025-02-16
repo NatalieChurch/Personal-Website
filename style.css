@@ -6,20 +6,19 @@
 
 .AboutImageNatureWalks {
     margin: 5%;
-    height: 300px;
+    height: 250px;
     width: auto;
 }
 
 .AboutImageVolunteering {
     margin: 5%;
-    height: 300px; 
-    width: auto;
-    overflow: hidden;
+    height: 200px; 
+
 }
 
 .AboutImageVideoGames {
     margin: 5%;
-    height: 200px;
+    height: 160px;
     width: auto;
 }
 
@@ -33,4 +32,30 @@
     margin: 5%;
     height: 400px;
     width: auto;
+}
+
+.AboutPageBody{
+    background: #202020;
+}
+
+.Abouth1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FBFCFC;
+}
+
+.Abouth2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div{
+    background: #8CE;
+    border: solid #FBFCFC 2px;
+    margin: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #202424;
+
+}
+
+div:nth-child(even){
+    background: #6fbcf0; 
 }
