@@ -24,30 +24,30 @@
 
 .Latsch {
     margin: 5%;
-    height: 300px;
+    height: 250px;
     width:auto;
 }
 
 .SkunkMap {
     margin: 5%;
-    height: 400px;
+    height: 250px;
     width: auto;
 }
 
-.AboutPageBody{
+body{
     background: #202020;
 }
 
-.Abouth1{
+h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #FBFCFC;
 }
 
-.Abouth2{
+h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-div{
+.AboutPageDivs{
     background: #8CE;
     border: solid #FBFCFC 2px;
     margin: 10px;
@@ -56,6 +56,34 @@ div{
 
 }
 
-div:nth-child(even){
+.AboutPageDivs:nth-child(even){
     background: #6fbcf0; 
+}
+
+.PortfolioDivs{
+    background: #8CE;
+    border: solid #FBFCFC 2px;
+    margin: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #202424;
+}
+
+.PortfolioDivs:nth-child(even){
+    background: #6fbcf0; 
+}
+
+nav{
+    color: #FBFCFC;
+}
+
+nav:hover{
+    color: #6fbcf0;
+}
+
+.IndexSection{
+    background: #6fbcf0;
+    border: solid #FBFCFC 2px;
+    margin: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #202424;
 }
