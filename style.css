@@ -88,3 +88,30 @@ nav:hover{
     color: #202424;
 }
 
+form{
+    color: #FBFCFC;
+    display: flex;
+    flex-direction: column;
+    height: calc(100%);
+    width: 60%;
+
+}
+
+.ContactSection{
+    margin-bottom: 10px;
+}
+
+.ContactDivs{
+border: #8CE 1px solid;
+margin-top: 5px;
+margin-bottom: 15px;
+}
+
+.SubmitButton{
+    color: #FBFCFC;
+    background: rgb(0, 0, 0);
+}
+
+.SubmitButton:hover{
+    background:#6fbcf0
+}
