@@ -122,10 +122,19 @@ margin-bottom: 15px;
 }
 
 footer{
-    color: #FBFCFC;
+    color: #202020;
     position: fixed;
     bottom: 0%;
     background-color: #8CE;
     width: 100vw;
     text-align: center;
+    height:5%; 
+}
+
+.Header{
+    color: #202020;
+    background-color: rgb(141, 115, 67);
+    position: fixed;
+    top: 0%;
+    width:100%;
 }
