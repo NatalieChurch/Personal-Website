@@ -43,6 +43,10 @@ h1{
     color: #FBFCFC;
 }
 
+.Header>h1{
+    width: 600px;
+}
+
 h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -134,7 +138,9 @@ footer{
 .Header{
     color: #202020;
     background-color: rgb(141, 115, 67);
-    position: fixed;
-    top: 0%;
     width:100%;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+
 }
